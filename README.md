@@ -42,3 +42,18 @@ Java 기반 으로 Jsoup을 이용한 파싱
 Jsoup을 이용하여 파싱을 하다보니 태그값이 수시로 바뀌고 태그값을 찾기 위해 여러번 컴파일을 돌려본것.
 ui디자인을 바꾸기 위해 Look & Feel 기능을 찾아 쓴것.
 
+# Main UI(개봉작)
+![image](https://user-images.githubusercontent.com/38156821/43883550-6ea4e650-9bee-11e8-993d-6db2f9baf06a.png)
+
+# Main UI(개봉 예정작)
+![image](https://user-images.githubusercontent.com/38156821/43883571-8006a5aa-9bee-11e8-9983-aa4f1819f1cf.png)
+
+# 영화 비선택시 와 예매창 UI
+![image](https://user-images.githubusercontent.com/38156821/43883583-899f819a-9bee-11e8-961f-a915b5e1db04.png)
+
+# 영화 정보 UI
+![image](https://user-images.githubusercontent.com/38156821/43883589-92fde20e-9bee-11e8-9c36-7a594085eb0f.png)
+
+# 예고편 및 예외처리 UI
+![image](https://user-images.githubusercontent.com/38156821/43883608-9df86d78-9bee-11e8-88b9-1059948cdb36.png)
+
